@@ -1,4 +1,4 @@
-# OzonBarCode
+# OzonBarcode
 Штрихкод из цифрового кода для получения/возврата товара на [OZON](https://www.ozon.ru/) (Linux/Windows).
 
 **Компиляция:** Lazarus-4.2-x86_64 + пакет [LazBarcodes](https://wiki.lazarus.freepascal.org/LazBarcodes) (из сетевого диспетчера пакетов)
