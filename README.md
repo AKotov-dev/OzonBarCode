@@ -22,3 +22,5 @@ reboot
 + Статья с сайта Losst (см. выше)
 + Руководство `ADB AppControl` (см. выше)
 + These archives include `adb` and `adb.exe`, as well as libraries from the `Android SDK` licensed under the `Apache License 2.0`
+
+Всем приятных покупок, друзья! :)
