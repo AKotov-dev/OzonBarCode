@@ -18,6 +18,8 @@ groupadd adbusers; usermod -aG adbusers $(logname)
 wget https://raw.githubusercontent.com/M0Rf30/android-udev-rules/master/51-android.rules -O /etc/udev/rules.d/51-android.rules
 reboot
 ```
+Картинки штрихкода сохраняются на смартфон в каталог `Галереи`: `/sdcard/DCIM/Camera/OZON-Дата-Время.png`.
+
 ### Использованы материалы и ПО
 + Статья на сайте Losst - Отладка через USB (см. выше)
 + Руководство `ADB AppControl` - Драйвера (программа не видит устройство) (см. выше)
