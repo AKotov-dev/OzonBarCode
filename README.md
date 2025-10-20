@@ -19,8 +19,8 @@ wget https://raw.githubusercontent.com/M0Rf30/android-udev-rules/master/51-andro
 reboot
 ```
 ### Использованы материалы и ПО
-+ Статья с сайта Losst (см. выше)
-+ Руководство `ADB AppControl` (см. выше)
++ Статья с сайта Losst (Отладка через USB)
++ Руководство `ADB AppControl` (Драйвера (программа не видит устройство))
 + These archives include `adb` and `adb.exe`, as well as libraries from the `Android SDK` licensed under the `Apache License 2.0`
 
 Всем приятных покупок, друзья! :)
